@@ -40,7 +40,7 @@ docker run -d --restart=always --name=websiteguide -p 8000:80 websiteguide
 
 ## Легенда
 
-В сеть утекли исходники ~~говно~~кода приложения - `legend/views.py`
+В сеть утекли исходники кода приложения - `legend/views.py`
 
 ## Решение
 
